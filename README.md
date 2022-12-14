@@ -9,7 +9,7 @@ an Embedded Software Engineer who loves to design electronics and write code!
 - 📫 How to reach me  tarik.z.ramadan@gmail.com
 
 Connect with me:
-![linkedin-logo-3](https://user-images.githubusercontent.com/113884712/207656205-56266eef-85e4-4b24-a9b1-519eb95cd3e3.png) https://www.linkedin.com/in/tarik-z-ramadan/ Tarik.Z.Ramadan height=20
+![linkedin-logo-3](https://user-images.githubusercontent.com/113884712/207656205-56266eef-85e4-4b24-a9b1-519eb95cd3e3.png) height=2 https://www.linkedin.com/in/tarik-z-ramadan/ Tarik.Z.Ramadan 
 Languages and Tools:
 
 facebook: ![social-facebook-icon](https://user-images.githubusercontent.com/113884712/207656034-c5c27163-fe22-41e6-b05d-bb0f57ac542e.png) height=30
