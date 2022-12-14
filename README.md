@@ -6,17 +6,15 @@
 I'm Tarik Zaki Mohamed 
 an Embedded Software Engineer who loves to design electronics and write code!
 
-- 📫 How to reach me  tarik.z.ramadan@gmail.com
+- 📫 How to reach me  E-mail: tarik.z.ramadan@gmail.com
 
-Connect with me:
-![linkedin-logo-3](https://user-images.githubusercontent.com/113884712/207656205-56266eef-85e4-4b24-a9b1-519eb95cd3e3.png) height=2 https://www.linkedin.com/in/tarik-z-ramadan/ Tarik.Z.Ramadan 
+Connect with me: LinkedIn https://www.linkedin.com/in/tarik-z-ramadan/ 
+Connect with me: facebook https://www.facebook.com/tarik.z.mohamed/
 Languages and Tools:
 
-facebook: ![social-facebook-icon](https://user-images.githubusercontent.com/113884712/207656034-c5c27163-fe22-41e6-b05d-bb0f57ac542e.png) height=30
+Learn C and C++ Programming:  https://www.w3schools.com/cpp/ 
+C++ Tutorial: https://www.cprogramming.com/ 
 
-c  https://www.w3schools.com/cpp/ height=20 cplusplus https://www.cprogramming.com/ height=20
-
- https://www.linkedin.com/in/eslam-mohamed-b10836212/ eslam m.sayed https://www.hackerrank.com/eslamMohamed height= 
 
 <!---
 Tarikzmohamed/Tarikzmohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
