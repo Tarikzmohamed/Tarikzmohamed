@@ -8,12 +8,12 @@ an Embedded Software Engineer who loves to design electronics and write code!
 
 - 📫 How to reach me  E-mail: tarik.z.ramadan@gmail.com
 
-Connect with me: LinkedIn https://www.linkedin.com/in/tarik-z-ramadan/ 
-Connect with me: facebook https://www.facebook.com/tarik.z.mohamed/
-Languages and Tools:
+- 📫 Connect with me: LinkedIn https://www.linkedin.com/in/tarik-z-ramadan/ 
+- 📫 Connect with me: facebook https://www.facebook.com/tarik.z.mohamed/
+- 📫 Languages and Tools:
 
-Learn C and C++ Programming:  https://www.w3schools.com/cpp/ 
-C++ Tutorial: https://www.cprogramming.com/ 
+- 📫 Learn C and C++ Programming:  https://www.w3schools.com/cpp/ 
+- 📫 C++ Tutorial: https://www.cprogramming.com/ 
 
 
 <!---
