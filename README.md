@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Tarikzmohamed
-- 👀 I’m interested in Embedded System design (hardware & software), and Electronics Designs (Analog, Digital, and Mixed)
-- 🌱 I’m currently learning Microchip dspic30/33 series
-- 💞️ I’m looking to collaborate on any new product design with fantastic ideas
+- 👀 I’m interested in Embedded System design (hardware & software), and Electronics Designs (Analog, Digital, and Mixed).
+- 👀 I have a good experience in AVR ATmega32a microcontrolle.
+- 🌱 I’m currently learning Microchip dspic30/33 series.
+- 💞️ I’m looking to collaborate on any new product design with fantastic ideas.
 
-I'm Tarik Zaki Mohamed 
-an Embedded Software Engineer who loves to design electronics and write code!
+- 💞️ I'm Tarik Zaki Mohamed 
+    An Embedded Software Engineer who loves to design electronics and write code!
 
 - 📫 How to reach me  E-mail: tarik.z.ramadan@gmail.com
 
